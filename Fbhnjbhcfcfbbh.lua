@@ -4,7 +4,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 
 
-local Window = OrionLib:MakeWindow({Name = "Splishy Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "Splishy Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "Splishy Hub"})
 
 
 
@@ -58,7 +58,7 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 
 local Section = Tab:AddSection({
 
-	Name = "Section"
+	Name = "Dupe Your Pets!!"
 
 })
 
