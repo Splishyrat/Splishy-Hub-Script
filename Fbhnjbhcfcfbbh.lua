@@ -102,7 +102,7 @@ Time = <number> - The duration of the notfication.
 
 Tab:AddButton({
 
-	Name = "Button!",
+	Name = "Dupe Pets!",
 
 	Callback = function()
 
